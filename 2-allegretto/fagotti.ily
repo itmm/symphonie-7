@@ -6,5 +6,12 @@ fagotti_satz_ii = \relative c' {
 	\time 2/4
 
 	\clef tenor
-	<< a2~\f\> c~ >> | << a~ c~ >> | << a4\pp c >> r |
+	<< a2~\f\> c~ >> | << a~ c~ >> | << a4\pp c >> r | r2 |
+	r2               | r           | r               | r  |
+	r2               | r           |
+
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
 }

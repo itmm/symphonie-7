@@ -17,7 +17,11 @@
 \include "2-allegretto/clarinetti.ily"
 \include "2-allegretto/fagotti.ily"
 \include "2-allegretto/corni-e.ily"
-%\include "2-allegretto/bassi.ily"
+\include "2-allegretto/violine-1.ily"
+\include "2-allegretto/violine-2.ily"
+\include "2-allegretto/viole.ily"
+\include "2-allegretto/celli.ily"
+\include "2-allegretto/bassi.ily"
 
 \book {
   % --- 2. SATZ: ALLEGRETTO ---
@@ -25,25 +29,33 @@
     <<
       % Holzbläser-Gruppe
       \new StaffGroup <<
-        \new Staff \with { instrumentName = "Oboi" } { \oboi_satz_ii }
-		  \new Staff \with { instrumentName = "Clarinetti" } { \clarinetti_satz_ii }
-		  \new Staff \with { instrumentName = "Fagotti" } { \fagotti_satz_ii }
+        \new Staff \with { instrumentName = "Oboi" midiInstrument = "oboe" } { \oboi_satz_ii }
+		  \new Staff \with { instrumentName = "Clarinetti" midiInstrument = "clarinet" } { \clarinetti_satz_ii }
+		  \new Staff \with { instrumentName = "Fagotti" midiInstrument = "bassoon" } { \fagotti_satz_ii }
       >>
       
 		% Blechbläser-Gruppe
 		\new StaffGroup <<
-			\new Staff \with { instrumentName = "Corni in E" } { \corni_satz_ii }
+			\new Staff \with { instrumentName = "Corni in E" midiInstrument = "english horn" } { \corni_satz_ii }
 		>>
 	
 		% Schlagwerk
       % Streicher-Gruppe
-      %\new StaffGroup <<
-      %  \new Staff \with { instrumentName = "Violino I" } {
-      %    \violinI_SatzI
-      %  }
-      %  % \new Staff \with { instrumentName = "Violino II" } { \violinII_SatzI }
-      %>>
+      \new StaffGroup <<
+			\new PianoStaff \with { instrumentName = "Violini" } <<
+				\new Staff \with { midiInstrument = "violin" } { \violine_i_satz_ii }
+				\new Staff \with { midiInstrument = "violin" } { \violine_ii_satz_ii }
+			>>
+			\new Staff \with { instrumentName = "Viole" midiInstrument = "viola" } { \viole_satz_ii }
+			\new Staff \with { instrumentName = "Violoncello I" midiInstrument = "cello" } { \celli_satz_ii }
+			\new Staff \with { instrumentName = \markup {
+		  		\column { "Violoncello II" \line { "et Bassi" } }
+			} midiInstrument = "contrabass" } {
+          \bassi_satz_ii
+        }
+      >>
     >>
+	 \midi { }
     \layout { 
       % Hier können Sie z. B. leere Systeme ausblenden (Frenetico)
       \context {

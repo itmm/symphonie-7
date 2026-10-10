@@ -5,5 +5,12 @@ clarinetti_satz_ii = \relative c'' {
 	\key a \minor
 	\time 2/4
 
-	<< g2~\f\> c~ >> | << g~ c~ >> | << g4\pp c >> r4 |
+	<< g2~\f\> c~ >> | << g~ c~ >> | << g4\pp c >> r4 | r2 |
+	r2               | r           | r                | r  |
+	r2               | r           |
+
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
 }
