@@ -5,7 +5,7 @@ corni_satz_ii = \relative c' {
 	\key a \minor
 	\time 2/4
 
-	<< c2~\f\> c'~ >> | << c,~ c'~ >> | << c,4\pp c' >> r | r2 |
+	<< e2~\f\> e'~ >> | << e,~ e'~ >> | << e,4\pp e' >> r | r2 |
 	r2                | r             | r                 | r  |
 	r2                | r             |
 
@@ -17,14 +17,17 @@ corni_satz_ii = \relative c' {
 	r2 | r | r | r | r | r | r | r |
 	r2 | r | r | r | r | r | r | r |
 
-	r2 | r | r | r | r | r | r4 << c c, >> | r f' |
+	r2 | r | r | r | r | r | r4 << e e, >> | r f' |
 
-	<< c,4\ff c'>> << c,8 c' >> << c, c' >> |
-	<< c,4 c' >> << c, c' >> |
-	<< c,4 c'>> << c,8 c' >> << c, c' >> |
-	<< c,4 c' >> << c, c' >> |
-	<< c,4 c' >> c8 d |
-	es4 es |
-	es4 es8 es |
-	es4 r |
+	<< e,4\ff e'>> << e,8 e' >> << e, e' >> |
+	<< e,4 e' >> << e, e' >> |
+	<< e,4 e'>> << e,8 e' >> << e, e' >> |
+	<< e,4 e' >> << e, e' >> |
+
+	<< e,4 e' >> e8 fis | g4 g | g4 g8 g | g4 r |
+
+	g4 g8 a | b4-. b-. | f f8 gis | a4 a |
+
+	<< e,4 e' >> << e,8 e' >> << e, e' >> | << e,4 e' >> << e, e' >> |
+	<< e,4 e' >> fis8 gis                 | a4 r                     |
 }

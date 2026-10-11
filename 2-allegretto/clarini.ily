@@ -15,6 +15,9 @@ clarini_satz_ii = \relative c'' {
 	r2 | r | r | r | r | r | r | r |
 	r2 | r | r | r | r | r | r | r |
 
-	<< g,4\ff g' >> r | d' r | d r | << g,, g' >> r |
-	<< g, g' >> r | r d' | r2 | d4 r |
+	<< a,4\ff a' >> r | e' r | e r | << a,, a' >> r |
+	<< a, a' >> r     | r e' | r2  | e4 r           |
+
+	e4 r          | r2              | e4 r     | << a,, a' >> r  |
+	<< a, a' >> r | fis' << a,, a' >> | e'4 e8 e | << a,,4 a' >> r |  
 }

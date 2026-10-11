@@ -22,4 +22,11 @@ oboi_satz_ii = \relative c'' {
 
 	e4\ff e8 e | e4-.( e-.) | e4 e8 e | e4-.( e-.) | 
 	e4 e8 fis  | g4 g       | g g8 g  | g4 r       |
+
+	<< g,4 g' >> << g,8 g'-. >> << a, a'-. >>         |
+	<< b,4 b' >> << b, b' >>                          |
+	<< fis,4 fis' >> << fis,8 fis' >> << gis, gis' >> |
+	<< a,4 a' >> << a, a' >>                          |
+
+	e4 e8 e | e4 e | e fis8 gis | a4 r | 
 }
