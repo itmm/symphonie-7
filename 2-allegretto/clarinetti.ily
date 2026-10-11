@@ -13,4 +13,17 @@ clarinetti_satz_ii = \relative c'' {
 	r2 | r | r | r | r | r | r | r |
 	r2 | r | r | r | r | r | r | r |
 	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+
+	<< g4\ff g' >> << g,8 g'-. >> << g, g'-. >> |
+	<< g,4 g'-.( >> << g, g'-.) >> |
+	<< g,4 g' >> << g,8 g'-. >> << g, g'-. >> |
+	<< g,4 g'-.( >> << g, g'-.) >> |
+	<< g,4 g' >> << g,8 g'-. >> << a, a'-. >> |
+	<< bes,4 bes'-. >> << bes, bes'-. >>  |
+	<< bes,4 bes' >> << bes,8 bes' >> << bes, bes' >> |
+	<< bes,4 bes' >> r |
 }

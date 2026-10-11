@@ -13,4 +13,13 @@ oboi_satz_ii = \relative c'' {
 	r2 | r | r | r | r | r | r | r |
 	r2 | r | r | r | r | r | r | r |
 	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+	r2 | r | r | r | r | r | r | r |
+
+	r4\cresc << e g >> | r << dis b' >> | r << d, fis >> | r << c a' >> |
+	r4 << c, e >> | r << c e >>   | r << b e >>   | r << c e >>  |
+
+	e4\ff e8 e | e4-.( e-.) | e4 e8 e | e4-.( e-.) | 
+	e4 e8 fis  | g4 g       | g g8 g  | g4 r       |
 }
