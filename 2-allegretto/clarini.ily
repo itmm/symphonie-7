@@ -5,15 +5,7 @@ clarini_satz_ii = \relative c'' {
 	\key a \minor
 	\time 2/4
 
-	r2 | r | r | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
+	R2*74
 
 	<< a,4\ff a' >> r | e' r | e r | << a,, a' >> r |
 	<< a, a' >> r     | r e' | r2  | e4 r           |

@@ -35,11 +35,11 @@ celli_satz_ii = \relative c {
 	r8\cresc b( d e,) | r gis( b e,)  | r gis( b e,) | r a( c e,) |
 	r8 a( c c,)       | r g'( c c,)   | r b'( d g,)  | r g( c c,) |
 
-	r8 c'( e g,) | r fis'( b b,) | r b( d d,) | r e'( a a,) |
-	r8 a( e' e,) | r b'( e e,)    | r b'( e e,) | r c'( e a,)  |
+	r8 c'( e e,) | \clef bass r fis( b b,) | \clef tenor r b'( d d,) | \clef bass r e( a a,) |
+	\clef tenor r8 a'( e' e,) | r b'( e e,)    | r b'( e e,) | r c'( e a,)  |
 
-	r8\f c( e e,) | r fis'( b b,) | r b( d d,) | r e'( a a,) |
-	r8 a( e' e,)  | r b'( e e,)    | r b'( e e,) | r c'( e a,)  |
+	r8\f c( e e,) | \clef bass r fis( b b,) | \clef tenor r b'( d d,) | \clef bass r e( a a,) |
+	\clef tenor r8 a'( e' e,)  | r b'( e e,)    | r b'( e e,) | r c'( e a,)  |
 
 	\times 2/3 { r8\ff a-. c-. } e,4 | \times 2/3 { r8 gis-. b-. } e,4        |
 	\times 2/3 { r8 gis-. b-. } e,4  | \times 2/3 { r8 a-. c-. } e,4          |

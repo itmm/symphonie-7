@@ -10,14 +10,7 @@ fagotti_satz_ii = \relative c' {
 	r2               | r           | r               | r  |
 	r2               | r           |
 
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-
+	R2*56
 
 	\clef bass
 	r4\cresc << c e >> | r << b fis' >> | r << b, d >>  | r << a e' >>  |

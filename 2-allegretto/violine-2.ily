@@ -5,9 +5,7 @@ violine_ii_satz_ii = \relative c' {
 	\key a \minor
 	\time 2/4
 
-	r2 | r | r | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
+	R2*26
 
 	e4\p e8-. e-. | e4-.( e-.) | e4\p e8-. e-. | e4-.( e-.) |
 	e4 e8-. fis-. | g4-.( g-.) | g g8-. g-.    | g4 r       |

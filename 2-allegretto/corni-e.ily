@@ -9,13 +9,7 @@ corni_satz_ii = \relative c' {
 	r2                | r             | r                 | r  |
 	r2                | r             |
 
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
+	R2*56
 
 	r2 | r | r | r | r | r | r4 << e e, >> | r f' |
 

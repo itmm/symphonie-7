@@ -5,16 +5,9 @@ flauti_satz_ii = \relative c'' {
 	\key a \minor
 	\time 2/4
 
-	r2 | r | r | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
+	R2*72 
 
-	r2 | r | r | r | r | r | r4 gis' | r a |
+	r4 gis' | r a |
 
 	<< e4\ff e' >> << e,8 e'-. >> << e, e'-. >> |
 	<< e,4 e'-.( >> << e, e'-.) >>              |

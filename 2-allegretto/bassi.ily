@@ -22,10 +22,10 @@ bassi_satz_ii = \relative c {
 	r4 a,8-. a-. | gis-. r a-. r | r4 e8 e  | a r a' r   |
 
 		r4\pp c,8 c     | b r b' r      | r4 e,8 e | a,8 r a' r |
-		r4 a,8-. a-.    | gis-. r a-. r | r4 e8 e  | a r a' r   |
+		r4 a,8 a    | gis r a r | r4 e8 e  | a r a' r   |
 
-	a,4\cresc r8 a' | gis,4 r8 gis' | e,4 r8 e'  | e,4 r8 e' |
-	g,4 r8 g'       | g,4 r8 g'     | c,4 r8 c' | c,4 r8 c' |
+	a,4\cresc r8 a' | gis,4 r8 gis' | e,4 r8 e' | a,4 r8 a' |
+	a,4 r8 a'       | g,4 r8 g'     | g,4 r8 g' | c,4 r8 c' |
 
 	c,4 r8 c' | b,4 r8 b'  | b,4 r8 b' | a,4 r8 a' |
 	a,4 r8 a' | gis,4 r8 a | e4 r8 e'  | a,4 r8 a'  |

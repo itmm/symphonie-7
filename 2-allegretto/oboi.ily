@@ -9,13 +9,7 @@ oboi_satz_ii = \relative c'' {
 	r2               | r           | r                | r  |
 	r2               | r           |
 
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
-	r2 | r | r | r | r | r | r | r |
+	R2*56
 
 	r4\cresc << e g >> | r << dis b' >> | r << d, fis >> | r << c a' >> |
 	r4 << c, e >> | r << c e >>   | r << b e >>   | r << c e >>  |
