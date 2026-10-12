@@ -50,4 +50,9 @@ viole_satz_ii = \relative c {
 	\times 2/3 { r8 a-. c-. } c,4    | \times 2/3 { r8 g'-. c-. } << g4 c, >> |
 	\times 2/3 { r8 b' d } g,4       | \times 2/3 { r8 g c } c,4              |
 % 83
+	\times 2/3 { r8 g' c } c,4 | \times 2/3 { r8 b' b' } b,4 |
+	\times 2/3 { r8 b d } d,4 | \times 2/3 { r8 a' a' } a,4 |
+	\times 2/3 { r8 a c } e,4 | \times 2/3 { r8 gis b } << e,4 a >> |
+	\times 2/3 { r8 gis b } e,4 | \times 2/3 { r8 a a' } \times 2/3 { a,8 a b } |
+
 }	

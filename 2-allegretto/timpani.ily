@@ -9,4 +9,6 @@ timpani_satz_ii = \relative c {
 % 75
 	a4\ff r | e' r | e r | a, r | a r | e' r | r2 | e4 r |
 % 83
+	e4 r | r2 | e4 r | a,4 r | a r | e' a, | e' e8 e | a,4 r |
+% 91
 }

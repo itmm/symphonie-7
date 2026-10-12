@@ -34,4 +34,7 @@ violine_ii_satz_ii = \relative c' {
 	r8\ff a( c e,) | r b'( d e,) | r b'( d gis,) | r c( e a,) |
 	r8 a( c c,)    | r c'( e e,) | r c'( e g,)   | r c( e g,) |
 % 83
+	r8 c( e e,) | r dis'( b' b,) | r b( d d,)  | r cis'( a' a,) |
+	r c( e e,)  | r b'( e e,)    | r b'( e e,) | r c'( e e,)    |
+% 91
 }

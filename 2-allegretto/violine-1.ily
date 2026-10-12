@@ -21,4 +21,9 @@ violine_i_satz_ii = \relative c'' {
 	c4. c,16( d)                        | dis8( e) e-. e-. |
 	\acciaccatura { d16 e } f4.( e16 d) | d8( e) e4        |
 % 83
+	e4( e' | dis2) |
+	d8( b16 cis d8 e16 d) | d8( cis c4) |
+	c2(    | b4 c) |
+	\acciaccatura { b16 c } d4.( c16 b) | a8-. a,16( b) c8-. c16 d |
+% 91
 }
