@@ -33,7 +33,7 @@
 			\new StaffGroup <<
 				\new Staff \with { instrumentName = "Flauti" } { \flauti_satz_ii }
 				\new Staff \with { instrumentName = "Oboi" } { \oboi_satz_ii }
-				\new Staff \with { instrumentName = "Clarinetti" } { \clarinetti_satz_ii }
+				\new Staff \with { instrumentName = "Clarinetti" } { \transpose bes c \clarinetti_satz_ii }
 				\new Staff \with { instrumentName = "Fagotti" } { \fagotti_satz_ii }
 			>>
 

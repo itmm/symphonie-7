@@ -9,30 +9,29 @@ fagotti_satz_ii = \relative c' {
 	<< a2~\f\> c~ >> | << a~ c~ >> | << a4\pp c >> r | r2 |
 	r2               | r           | r               | r  |
 	r2               | r           |
-
+% 11
 	R2*56
-
+% 67
 	\clef bass
-	r4\cresc << c e >> | r << b fis' >> | r << b, d >>  | r << a e' >>  |
-	r4 << a, e' >>     | r << a, e' >>  | r << b d >> | r << a4 c >> |
-
-	<< c,4\ff c' >> << c,8 c' >> << c, c' >> |
-	<< c,4 c'-.( >> << c, c'-.) >> |
-	<< c,4 c' >> << c,8 c' >> << c, c' >> |
-	<< c,4 c'-.( >> << c, c'-.) >> |
-
+	r4\cresc << c e >> | r << b fis' >> | r << b, d >>  | r << a e' >> |
+	r4 << a, e' >>     | r << a, e' >>  | r << b d >>   | r << a4 c >> |
+% 75
+	<< e,4\ff e' >> << e,8 e' >> << e, e' >> |
+	<< e,4 e'-.( >> << e, e'-.) >>           |
+	<< e,4 e' >> << e,8 e' >> << e, e' >>    |
+	<< e,4 e'-.( >> << e, e'-.) >>           |
+% 79
 	\clef tenor
 	<< e,4 e' >> << e,8 e' >> << fis, fis' >> |
-	<< g,4 g'-.( >> << g,4 g'-.) >> |
-	<< g,4 g' >> << g,8 g' >> << g, g' >> |
-	<< g,4 g' >> r |
-
+	<< g,4 g'-.( >> << g,4 g'-.) >>           |
+	<< g,4 g' >> << g,8 g' >> << g, g' >>     |
+	<< g,4 g' >> r                            |
+% 83
 	\clef bass
 	g,4 g8-. a-. | b4-. b-. | fis4 fis8 gis | a4 a |
-
+% 87
 	\clef tenor
 	<< e4 e' >> << e,8 e' >> << e, e' >> | << e,4 e' >> << e, e' >> |
-	<< e,4 e' >> fis,8 gis                | a4 r                     |
-
-
+	<< e,4 e' >> fis,8 gis               | a4 r                     |
+% 91
 }

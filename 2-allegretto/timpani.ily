@@ -6,7 +6,7 @@ timpani_satz_ii = \relative c {
 	\time 2/4
 
 	R2*74
-
-	a4\ff r | e' r | e r | a, r  |
-	a r  | e' r | r2  | e4 r  |
+% 75
+	a4\ff r | e' r | e r | a, r | a r | e' r | r2 | e4 r |
+% 83
 }
